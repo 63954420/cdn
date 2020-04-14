@@ -34,3 +34,4 @@
 @@||redirect.simba.taobao.com^$important
 @@||a1.qpic.cn^$important
 @@||dldir1.qq.com^$important
+@@||tongji.baidu.com^$important
