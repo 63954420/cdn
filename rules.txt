@@ -37,4 +37,3 @@
 @@||tongji.baidu.com^$important
 @@||cas.baidu.com^$important
 @@||push2.eastmoney.com^$important
-@@||jin.baidu.com^$important
