@@ -37,5 +37,3 @@
 @@||tongji.baidu.com^$important
 @@||cas.baidu.com^$important
 @@||push2.eastmoney.com^$important
-@@||sohu.irs01.com^$important
-@@||sohu.irs01.com.lan^$important
