@@ -38,4 +38,3 @@
 @@||cas.baidu.com^$important
 @@||push2.eastmoney.com^$important
 @@||www.alidns.com^$important
-@@||im-x.jd.com^$important
