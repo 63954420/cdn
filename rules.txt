@@ -38,3 +38,8 @@
 @@||cas.baidu.com^$important
 @@||push2.eastmoney.com^$important
 @@||www.alidns.com^$important
+@@||search.video.iqiyi.com^$important
+@@||xin.baidu.com^$important
+@@||c.gridsumdissector.com^$important
+@@||down.360safe.com^$important
+@@||cdn.ark.qq.com^$important
