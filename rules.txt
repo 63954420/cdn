@@ -43,3 +43,7 @@
 @@||c.gridsumdissector.com^$important
 @@||down.360safe.com^$important
 @@||cdn.ark.qq.com^$important
+@@||im-x.jd.com^$important
+@@||ac.dun.163yun.com^$important
+@@||pass.jiyoujia.com^$important
+
