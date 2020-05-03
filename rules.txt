@@ -46,4 +46,6 @@
 @@||im-x.jd.com^$important
 @@||ac.dun.163yun.com^$important
 @@||pass.jiyoujia.com^$important
-
+@@||cmshow.qq.com^$important
+@@||vectorsdk.map.qq.com^$important
+@@||ipassport.ele.me^$important
