@@ -53,3 +53,4 @@
 @@||widget.1688.com^$important
 @@||astyle-src.alicdn.com^$important
 @@||pass.1688.com^$important
+@@||act.vip.iqiyi.com^$important
