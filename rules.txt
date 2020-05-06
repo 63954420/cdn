@@ -49,3 +49,7 @@
 @@||cmshow.qq.com^$important
 @@||vectorsdk.map.qq.com^$important
 @@||ipassport.ele.me^$important
+@@||dj.1688.com^$important
+@@||widget.1688.com^$important
+@@||astyle-src.alicdn.com^$important
+@@||pass.1688.com^$important
