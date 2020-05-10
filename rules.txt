@@ -54,3 +54,8 @@
 @@||astyle-src.alicdn.com^$important
 @@||pass.1688.com^$important
 @@||act.vip.iqiyi.com^$important
+@@||gsp0.baidu.com^$important
+@@||boxer.baidu.com^$important
+@@||wl.jd.com^$important
+@@||h5api.m.etao.com^$important
+@@||zhanzhang.bj.bcebos.com^$important
