@@ -59,3 +59,4 @@
 @@||wl.jd.com^$important
 @@||h5api.m.etao.com^$important
 @@||zhanzhang.bj.bcebos.com^$important
+@@||static.tieba.baidu.com^$important
